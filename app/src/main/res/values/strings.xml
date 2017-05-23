@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="strBtn">点我吧少年！</string>
+    <string name="strPic">LOGO图片</string>
+    <string name="strTextTop">北京移动</string>
+    <string name="strTextBottom">防窃听未开启</string>
+
+
+    <string name="app_name">阿里云播放器</string>
+    <string name="action_settings">Settings</string>
+    <string name="file_list_title">视频列表</string>
+    <string name="description">图片</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="open_file_error_format">The format of file is error</string>
+    <string name="open_file_none">"You don't choose any file"</string>
+    <string name="empty_hint">The directory is empty</string>
+    <string name="sdcard_unmonted_hint">Please mount the sdcard at first</string>
+</resources>
